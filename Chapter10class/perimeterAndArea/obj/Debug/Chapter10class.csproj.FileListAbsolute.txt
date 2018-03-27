@@ -1,0 +1,7 @@
+E:\dotnet\Chapter10class\Chapter10class\bin\Debug\Chapter10class.exe.config
+E:\dotnet\Chapter10class\Chapter10class\bin\Debug\Chapter10class.exe
+E:\dotnet\Chapter10class\Chapter10class\bin\Debug\Chapter10class.pdb
+E:\dotnet\Chapter10class\Chapter10class\obj\Debug\Chapter10class.csprojResolveAssemblyReference.cache
+E:\dotnet\Chapter10class\Chapter10class\obj\Debug\Chapter10class.csproj.CoreCompileInputs.cache
+E:\dotnet\Chapter10class\Chapter10class\obj\Debug\Chapter10class.exe
+E:\dotnet\Chapter10class\Chapter10class\obj\Debug\Chapter10class.pdb
